@@ -10,3 +10,4 @@ unpersonalized, with failure to update on the latest
 industry trends. Students make uninformed choices
 that may result in career misfits and underutilization
 of potential.
+![WOrkflow](https://github.com/user-attachments/assets/1f44e2a0-49ed-4a1d-a615-274cd594535d)
